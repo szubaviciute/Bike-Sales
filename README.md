@@ -4,8 +4,7 @@
 
 This data analysis project aims to provide insights into the bike sales. By analyzing various aspects of the bike sales I aimed to identify trends and gain a deeper understanding of the sales and what factors affect making purchase
 
-<img width="500" alt="Bikes" src="https://github.com/szubaviciute/Bike-Sales/assets/159541216/5e20469e-c45a-456d-bd71-d32ef080764c">
-
+<img width="537" alt="Bikes" src="https://github.com/szubaviciute/Bike-Sales/assets/159541216/3007cd2d-49c2-48a3-94df-14efbad4d5d9">
 
 ### Data sources
 
