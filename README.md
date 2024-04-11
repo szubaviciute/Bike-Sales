@@ -2,7 +2,7 @@
 
 ### Overview
 
-This data analysis project aims to provide insights into the bike sales. By analyzing various aspects of the bike sales I aimed to identify trends and gain a deeper understanding of the sales and what factors affect making purchase
+This data analysis project aims to provide insights into the bike sales. By analyzing various aspects of the bike sales I aimed to identify trends and gain a deeper understanding of the sales and what factors might affect making a purchase
 
 <img width="537" alt="Bikes" src="https://github.com/szubaviciute/Bike-Sales/assets/159541216/3007cd2d-49c2-48a3-94df-14efbad4d5d9">
 
@@ -12,7 +12,7 @@ The primary dataset used for this analysis is the "bake_sales.xlsx" file, contai
 
 ### Tools
 
-- Excel - Data Cleaning, analysis and visualization
+- Excel - Data cleaning, analysis and visualization
 
 ### Data Cleaning/Preparation
 
@@ -27,8 +27,8 @@ The initial data preparation phase included following tasks:
 EDA involved exploring the sample data to answer key questions, such as:
 
 1. What age group is most likely to buy a bike
-2. How commute to work affects the purchase of a bike
-3. Does having more children affects the purchase of a bike
+2. How commute to work might affect the purchase of a bike
+3. Does having more children affect the purchase of a bike
 
 ### Results
 
@@ -36,7 +36,7 @@ The analysis results are summarized as follows:
 
 1. The most sales of bikes were from middle aged people (31-54 years) and the smallest portion were from adolescents (0-30 years)
 2. The further people live from their work, the less likely they are going to buy a bike
-3. Children count affects the decision to buy a bike, however to strongly
+3. Children count affects the decision to buy a bike
 
 ### Recommendations
 
